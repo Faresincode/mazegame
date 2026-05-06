@@ -1,0 +1,11 @@
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.AssemblyReference.cache
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.exe.config
+D:\C-Sharp\Rood Map\Desktop Apps\Test Small Desktop App\MazeGame\MazeGame\obj\Debug\MazeGame.MazeGame.resources
